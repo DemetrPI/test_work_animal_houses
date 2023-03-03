@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test_work_animal_houses/static/css/main.483d74fb.css",
+    "main.js": "/test_work_animal_houses/static/js/main.12b0b55e.js",
+    "index.html": "/test_work_animal_houses/index.html",
+    "main.483d74fb.css.map": "/test_work_animal_houses/static/css/main.483d74fb.css.map",
+    "main.12b0b55e.js.map": "/test_work_animal_houses/static/js/main.12b0b55e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483d74fb.css",
+    "static/js/main.12b0b55e.js"
+  ]
+}
