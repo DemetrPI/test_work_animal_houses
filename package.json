@@ -2,6 +2,7 @@
   "name": "test_work_animal_houses",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gitname.github.io/test_work_animal_houses",
   "dependencies": {
     "@chakra-ui/react": "^2.5.1",
     "@emotion/react": "^11.10.6",
@@ -24,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +48,7 @@
     ]
   },
   "devDependencies": {
-    "@types/uuid": "^9.0.1"
+    "@types/uuid": "^9.0.1",
+    "gh-pages": "^5.0.0"
   }
 }
